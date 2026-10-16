@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>在 AI 对话中，把创意变成视频、图片与音乐</strong><br>
-  <a href="https://renoise.ai/plugin">打开 Renoise</a> · <a href="https://github.com/ArcoCodes/renoise-plugins-official">查看官方插件与 Skills</a>
+  <a href="https://renoise.ai/plugin">Renoise Plugin</a> · <a href="https://github.com/ArcoCodes/renoise-plugins-official">Renoise Plugin Repository</a>
 </p>
 
 <div align="center">
