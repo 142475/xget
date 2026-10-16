@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Turn fast-moving developer resources into fast-moving ideas.</strong><br>
+  <strong>One sentence to a finished video—Renoise handles the creative production, so you never have to hand-edit every shot.</strong><br>
   <a href="https://renoise.ai/plugin">Renoise Plugin</a> · <a href="https://github.com/ArcoCodes/renoise-plugins-official">Plugin Repository</a>
 </p>
 

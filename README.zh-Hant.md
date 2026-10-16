@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <strong>让开发资源高速抵达，也让灵感快速成片。</strong><br>
-  <a href="https://renoise.ai/plugin">Renoise Plugin</a> · <a href="https://github.com/ArcoCodes/renoise-plugins-official">Plugin Repository</a>
+  <strong>一句话生成成片——Renoise 自动完成创意制作，无需再逐镜头手工剪辑。</strong><br>
+  <a href="https://renoise.ai/plugin">Renoise 插件</a> · <a href="https://github.com/ArcoCodes/renoise-plugins-official">插件仓库</a>
 </p>
 
 <div align="center">
