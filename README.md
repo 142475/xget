@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Turn ideas into video, images, and music from your AI conversation</strong><br>
+  <strong>Turn fast-moving developer resources into fast-moving ideas.</strong><br>
   <a href="https://renoise.ai/plugin">Renoise Plugin</a> · <a href="https://github.com/ArcoCodes/renoise-plugins-official">Plugin Repository</a>
 </p>
 
